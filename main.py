@@ -25,7 +25,6 @@ from modules.KGIN import Recommender
 from utils.evaluate import test
 from utils.custom_evaluate import custom_test
 from utils.helper import early_stopping
-from utils.plot import *
 
 n_users = 0
 n_items = 0
