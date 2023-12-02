@@ -2,7 +2,7 @@
 ## EKGDR: An end-to-end knowledge graph based method for computational drug repurposing
 > Javad Tayebi and Bagher BabaAli
 
-### Example to Run the Codes
+## Example to Run the Codes
 > https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network
 
 - 
@@ -12,7 +12,7 @@
 
 - On colab, simply follow the `EKGDR.ipynb` notebook.
 
-### Dataset
+## Dataset
 DKG4RS
 > https://github.com/javadtayebi/DKG4RS
 
