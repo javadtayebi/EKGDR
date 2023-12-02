@@ -1,0 +1,1230 @@
+org_id|name|remap_id
+C0000810|Incomplete spontaneous abortion|0
+C0001126|Renal tubular acidosis|1
+C0001144|Acne Vulgaris|2
+C0001206|Acromegaly|3
+C0001207|Hypersomatotropic gigantism|4
+C0001261|Actinomycosis|5
+C0001263|Abdominal actinomycosis|6
+C0001264|Cervicofacial actinomycosis|7
+C0001403|Addison Disease|8
+C0001622|Adrenal Gland Hyperfunction|9
+C0001627|Congenital adrenal hyperplasia|10
+C0001957|Alcohol Withdrawal Delirium|11
+C0001973|Alcoholic Intoxication, Chronic|12
+C0002170|Alopecia|13
+C0002171|Alopecia Areata|14
+C0002351|Altitude Sickness|15
+C0002390|Extrinsic allergic alveolitis|16
+C0002395|Alzheimer's Disease|17
+C0002438|Amebiasis|18
+C0002440|Chronic intestinal amebiasis|19
+C0002453|Amenorrhea|20
+C0002726|Amyloidosis|21
+C0002736|Amyotrophic Lateral Sclerosis|22
+C0002792|anaphylaxis|23
+C0002874|Aplastic Anemia|24
+C0002875|Cooley's anemia|25
+C0002880|Autoimmune hemolytic anemia|26
+C0002888|Anemia, Megaloblastic|27
+C0002892|Anemia, Pernicious|28
+C0002895|Anemia, Sickle Cell|29
+C0002962|Angina Pectoris|30
+C0002963|Angina Pectoris, Variant|31
+C0002986|Fabry Disease|32
+C0002994|Angioedema|33
+C0003175|Anthrax disease|34
+C0003177|Cutaneous anthrax|35
+C0003467|Anxiety|36
+C0003469|Anxiety Disorders|37
+C0003492|Aortic coarctation|38
+C0003615|Appendicitis|39
+C0003850|Arteriosclerosis|40
+C0003862|Arthralgia|41
+C0003864|Arthritis|42
+C0003868|Arthritis, Gouty|43
+C0003872|Arthritis, Psoriatic|44
+C0003873|Rheumatoid Arthritis|45
+C0003950|Ascariasis|46
+C0003962|Ascites|47
+C0004030|Aspergillosis|48
+C0004031|Aspergillosis, Allergic Bronchopulmonary|49
+C0004096|Asthma|50
+C0004153|Atherosclerosis|51
+C0004238|Atrial Fibrillation|52
+C0004245|Atrioventricular Block|53
+C0004352|Autistic Disorder|54
+C0004364|Autoimmune Diseases|55
+C0004604|Back Pain|56
+C0004626|Pneumonia, Bacterial|57
+C0004771|Bartonella Infections|58
+C0004945|Bejel|59
+C0005138|Berylliosis|60
+C0005283|beta Thalassemia|61
+C0005424|Biliary Tract Diseases|62
+C0005586|Bipolar Disorder|63
+C0005587|Depression, Bipolar|64
+C0005684|Malignant neoplasm of urinary bladder|65
+C0005697|Neurogenic Urinary Bladder|66
+C0005699|Blast Phase|67
+C0005716|Blastomycosis|68
+C0005743|Blepharoconjunctivitis|69
+C0006057|Botulism|70
+C0006060|Boutonneuse Fever|71
+C0006105|Brain Abscess|72
+C0006114|Cerebral Edema|73
+C0006118|Brain Neoplasms|74
+C0006181|Brill-Zinsser Disease|75
+C0006266|Bronchial Spasm|76
+C0006267|Bronchiectasis|77
+C0006277|Bronchitis|78
+C0006309|Brucellosis|79
+C0006413|Burkitt Lymphoma|80
+C0006434|Burn injury|81
+C0006444|Bursitis|82
+C0006840|Candidiasis|83
+C0006846|Cutaneous Candidiasis|84
+C0006848|Mucocutaneous candidiasis|85
+C0006849|Oral candidiasis|86
+C0007102|Malignant tumor of colon|87
+C0007115|Malignant neoplasm of thyroid|88
+C0007117|Basal cell carcinoma|89
+C0007131|Non-Small Cell Lung Carcinoma|90
+C0007134|Renal Cell Carcinoma|91
+C0007137|Squamous cell carcinoma|92
+C0007138|Carcinoma, Transitional Cell|93
+C0007194|Hypertrophic Cardiomyopathy|94
+C0007780|Cerebral Embolism|95
+C0007820|Cerebrovascular Disorders|96
+C0007847|Malignant tumor of cervix|97
+C0007947|Chancroids|98
+C0008049|Chickenpox|99
+C0008149|Chlamydia Infections|100
+C0008311|Cholangitis|101
+C0008312|Primary biliary cirrhosis|102
+C0008325|Cholecystitis|103
+C0008350|Cholelithiasis|104
+C0008354|Cholera|105
+C0008513|Chorioretinitis|106
+C0008526|Choroiditis|107
+C0008533|Hemophilia B|108
+C0008582|Chromoblastomycosis|109
+C0008677|Bronchitis, Chronic|110
+C0009062|Clostridium Infections|111
+C0009088|Cluster Headache|112
+C0009186|Coccidioidomycosis|113
+C0009324|Ulcerative Colitis|114
+C0009443|Common Cold|115
+C0009663|Condylomata Acuminata|116
+C0009766|Allergic Conjunctivitis|117
+C0009768|Bacterial conjunctivitis|118
+C0009769|Conjunctivitis, Giant Papillary|119
+C0009770|Inclusion conjunctivitis|120
+C0009773|Conjunctivitis, Vernal|121
+C0009806|Constipation|122
+C0010032|Corneal abrasion|123
+C0010043|Corneal Ulcer|124
+C0010200|Coughing|125
+C0010308|Congenital Hypothyroidism|126
+C0010346|Crohn Disease|127
+C0010414|Infection by Cryptococcus neoformans|128
+C0010417|Cryptorchidism|129
+C0010418|Cryptosporidiosis|130
+C0010543|Cyclitis|131
+C0010674|Cystic Fibrosis|132
+C0010691|Cystinuria|133
+C0010692|Cystitis|134
+C0010930|Dacryocystitis|135
+C0011581|Depressive disorder|136
+C0011606|Exfoliative dermatitis|137
+C0011608|Dermatitis Herpetiformis|138
+C0011615|Dermatitis, Atopic|139
+C0011616|Contact Dermatitis|140
+C0011633|Dermatomyositis|141
+C0011644|Scleroderma|142
+C0011849|Diabetes Mellitus|143
+C0011854|Diabetes Mellitus, Insulin-Dependent|144
+C0011860|Diabetes Mellitus, Non-Insulin-Dependent|145
+C0011881|Diabetic Nephropathy|146
+C0011884|Diabetic Retinopathy|147
+C0011974|Diaper Rash|148
+C0011991|Diarrhea|149
+C0012546|Diphtheria|150
+C0012561|Diphyllobothriasis|151
+C0012734|Disruptive Behavior Disorder|152
+C0012739|Disseminated Intravascular Coagulation|153
+C0013238|Dry Eye Syndromes|154
+C0013264|Muscular Dystrophy, Duchenne|155
+C0013274|Patent ductus arteriosus|156
+C0013295|Duodenal Ulcer|157
+C0013338|Pituitary dwarfism|158
+C0013369|Dysentery|159
+C0013371|Shigella Infections|160
+C0013390|Dysmenorrhea|161
+C0013395|Dyspepsia|162
+C0013404|Dyspnea|163
+C0013428|Dysuria|164
+C0013595|Eczema|165
+C0013604|Edema|166
+C0013882|Elephantiasis|167
+C0013922|Embolism|168
+C0014013|Empyema, Pleural|169
+C0014121|Bacterial Endocarditis|170
+C0014175|Endometriosis|171
+C0014179|Endometritis|172
+C0014347|Enterobacteriaceae Infections|173
+C0014356|Enterocolitis|174
+C0014358|Enterocolitis, Pseudomembranous|175
+C0014488|Epicondylitis|176
+C0014544|Epilepsy|177
+C0014547|Epilepsies, Partial|178
+C0014549|Tonic-Clonic Epilepsy|179
+C0014550|Epilepsies, Myoclonic|180
+C0014553|Absence Epilepsy|181
+C0014733|Erysipelas|182
+C0014742|Erythema Multiforme|183
+C0014752|Erythrasma|184
+C0014836|Escherichia coli Infections|185
+C0014869|Peptic Esophagitis|186
+C0014877|Esotropia|187
+C0015230|Exanthema|188
+C0015371|Extrapyramidal Disorders|189
+C0015397|Disorder of eye|190
+C0015503|Factor VII Deficiency|191
+C0015967|Fever|192
+C0016034|Breast Fibrocystic Disease|193
+C0016053|Fibromyalgia|194
+C0016412|Folic Acid Deficiency|195
+C0016436|Folliculitis|196
+C0016867|Furunculosis|197
+C0017168|Gastroesophageal reflux disease|198
+C0017205|Gaucher Disease|199
+C0017418|Primary genital syphilis|200
+C0017531|Angiolymphoid hyperplasia|201
+C0017536|Giardiasis|202
+C0017563|Gingival Diseases|203
+C0017574|Gingivitis|204
+C0017575|Necrotizing Ulcerative Gingivitis|205
+C0017601|Glaucoma|206
+C0017605|Angle Closure Glaucoma|207
+C0017612|Glaucoma, Open-Angle|208
+C0018021|Goiter|209
+C0018022|Endemic goiter|210
+C0018081|Gonorrhea|211
+C0018099|Gout|212
+C0018190|Granuloma Inguinale|213
+C0018213|Graves Disease|214
+C0018621|Hay fever|215
+C0018790|Cardiac Arrest|216
+C0018802|Congestive heart failure|217
+C0018834|Heartburn|218
+C0018916|Hemangioma|219
+C0019069|Hemophilia A|220
+C0019080|Hemorrhage|221
+C0019112|Hemorrhoids|222
+C0019147|Hepatic Coma|223
+C0019151|Hepatic Encephalopathy|224
+C0019156|Hepatic Veno-Occlusive Disease|225
+C0019202|Hepatolenticular Degeneration|226
+C0019243|Angioedemas, Hereditary|227
+C0019342|Genital Herpes|228
+C0019345|Herpes Labialis|229
+C0019348|Herpes Simplex Infections|230
+C0019357|Keratitis, Herpetic|231
+C0019360|Herpes zoster disease|232
+C0019655|Histoplasmosis|233
+C0019693|HIV Infections|234
+C0019829|Hodgkin Disease|235
+C0019880|Homocystinuria|236
+C0020428|Hyperaldosteronism|237
+C0020437|Hypercalcemia|238
+C0020443|Hypercholesterolemia|239
+C0020459|Hyperinsulinism|240
+C0020461|Hyperkalemia|241
+C0020473|Hyperlipidemia|242
+C0020474|Hyperlipidemia, Familial Combined|243
+C0020479|Hyperlipoproteinemia Type III|244
+C0020502|Hyperparathyroidism|245
+C0020514|Hyperprolactinemia|246
+C0020538|Hypertensive disease|247
+C0020542|Pulmonary Hypertension|248
+C0020550|Hyperthyroidism|249
+C0020557|Hypertriglyceridemia|250
+C0020594|Hypoactive Sexual Desire Disorder|251
+C0020598|Hypocalcemia|252
+C0020615|Hypoglycemia|253
+C0020621|Hypokalemia|254
+C0020625|Hyponatremia|255
+C0020626|Hypoparathyroidism|256
+C0020630|Hypophosphatasia|257
+C0020635|Hypopituitarism|258
+C0020649|Hypotension|259
+C0020651|Hypotension, Orthostatic|260
+C0020676|Hypothyroidism|261
+C0020683|Hypovolemic Shock|262
+C0021092|Impacted cerumen|263
+C0021099|Impetigo|264
+C0021141|Inappropriate ADH Syndrome|265
+C0021355|Infective otitis externa|266
+C0021361|Female infertility|267
+C0021390|Inflammatory Bowel Diseases|268
+C0021400|Influenza|269
+C0021603|Sleep Initiation and Maintenance Disorders|270
+C0021670|insulinoma|271
+C0021775|Intermittent Claudication|272
+C0022073|Iridocyclitis|273
+C0022081|Iritis|274
+C0022104|Irritable Bowel Syndrome|275
+C0022281|Itching of eye|276
+C0022354|Jaundice, Obstructive|277
+C0022548|Keloid|278
+C0022568|Keratitis|279
+C0022570|Keratitis, Dendritic|280
+C0022573|Keratoconjunctivitis|281
+C0022575|Keratoconjunctivitis Sicca|282
+C0022577|Keratoconjunctivitis, Vernal|283
+C0022602|Actinic keratosis|284
+C0022729|Klebsiella Infections|285
+C0022735|Klinefelter Syndrome|286
+C0022876|Premature Obstetric Labor|287
+C0022951|Lactose Intolerance|288
+C0022972|Lambert-Eaton Myasthenic Syndrome|289
+C0023052|Laryngeal Edema|290
+C0023241|Legionnaires' Disease|291
+C0023269|leiomyosarcoma|292
+C0023281|Leishmaniasis|293
+C0023283|Leishmaniasis, Cutaneous|294
+C0023290|Leishmaniasis, Visceral|295
+C0023343|Leprosy|296
+C0023381|Letterer-Siwe Disease|297
+C0023434|Chronic Lymphocytic Leukemia|298
+C0023440|Acute Erythroblastic Leukemia|299
+C0023443|Hairy Cell Leukemia|300
+C0023449|Acute lymphocytic leukemia|301
+C0023465|Acute monocytic leukemia|302
+C0023467|Leukemia, Myelocytic, Acute|303
+C0023472|Leukemia, Myeloid, Accelerated Phase|304
+C0023473|Myeloid Leukemia, Chronic|305
+C0023474|Leukemia, Myeloid, Chronic-Phase|306
+C0023479|Acute myelomonocytic leukemia|307
+C0023487|Acute Promyelocytic Leukemia|308
+C0023646|Lichen Planus|309
+C0023786|Mucopolysaccharidosis I|310
+C0023827|liposarcoma|311
+C0023860|Listeriosis|312
+C0023885|Liver Abscess|313
+C0023886|Liver Abscess, Amebic|314
+C0023968|Loiasis|315
+C0024110|Lung Abscess|316
+C0024115|Lung diseases|317
+C0024117|Chronic Obstructive Airway Disease|318
+C0024138|Lupus Erythematosus, Discoid|319
+C0024141|Lupus Erythematosus, Systemic|320
+C0024198|Lyme Disease|321
+C0024286|Lymphogranuloma Venereum|322
+C0024299|Lymphoma|323
+C0024301|Lymphoma, Follicular|324
+C0024305|Lymphoma, Non-Hodgkin|325
+C0024419|Waldenstrom Macroglobulinemia|326
+C0024449|Mycetoma|327
+C0024530|Malaria|328
+C0024535|Malaria, Falciparum|329
+C0024536|Quartan malaria|330
+C0024537|Malaria, Vivax|331
+C0024586|Malignant Carcinoid Syndrome|332
+C0024588|Malignant essential hypertension|333
+C0024591|Malignant hyperpyrexia due to anesthesia|334
+C0024623|Malignant neoplasm of stomach|335
+C0024790|Paroxysmal nocturnal hemoglobinuria|336
+C0025202|melanoma|337
+C0025218|Chloasma|338
+C0025281|Meniere Disease|339
+C0025289|Meningitis|340
+C0025293|Meningitis, Listeria|341
+C0025294|Meningococcal meningitis|342
+C0025295|Meningitis, Pneumococcal|343
+C0025306|Meningococcemia|344
+C0025323|Menorrhagia|345
+C0025874|Metrorrhagia|346
+C0026603|Motion Sickness|347
+C0026705|Mucopolysaccharidosis II|348
+C0026709|Mucopolysaccharidosis VI|349
+C0026718|Mucormycosis|350
+C0026764|Multiple Myeloma|351
+C0026769|Multiple Sclerosis|352
+C0026838|Muscle Spasticity|353
+C0026857|Musculoskeletal Diseases|354
+C0026896|Myasthenia Gravis|355
+C0026948|Mycosis Fungoides|356
+C0026961|Mydriasis|357
+C0026987|Myelofibrosis|358
+C0027022|Myeloproliferative disease|359
+C0027051|Myocardial Infarction|360
+C0027145|Myxedema|361
+C0027404|Narcolepsy|362
+C0027424|Nasal congestion (finding)|363
+C0027430|Nasal Polyps|364
+C0027497|Nausea|365
+C0027498|Nausea and vomiting|366
+C0027662|Multiple Endocrine Neoplasia|367
+C0027708|Nephroblastoma|368
+C0027726|Nephrotic Syndrome|369
+C0027773|Nesidioblastosis|370
+C0027796|Neuralgia|371
+C0027819|Neuroblastoma|372
+C0027927|Neurosyphilis|373
+C0028043|Nicotine Dependence|374
+C0028242|Nocardia Infections|375
+C0028326|Noonan Syndrome|376
+C0028734|Nocturia|377
+C0028754|Obesity|378
+C0028768|Obsessive-Compulsive Disorder|379
+C0028840|Ocular Hypertension|380
+C0029001|Onchocerciasis|381
+C0029076|Ophthalmia Neonatorum|382
+C0029077|Ophthalmia, Sympathetic|383
+C0029104|Opioid withdrawal|384
+C0029106|Opisthorchiasis|385
+C0029291|Psittacosis|386
+C0029396|Heterotopic Ossification|387
+C0029401|Osteitis Deformans|388
+C0029408|Degenerative polyarthritis|389
+C0029442|Osteomalacia|390
+C0029443|Osteomyelitis|391
+C0029456|Osteoporosis|392
+C0029458|Osteoporosis, Postmenopausal|393
+C0029878|Otitis Externa|394
+C0030193|Pain|395
+C0030201|Pain, Postoperative|396
+C0030319|Panic Disorder|397
+C0030409|Paracoccidioidomycosis|398
+C0030446|Paralytic Ileus|399
+C0030528|Paratyphoid Fever|400
+C0030567|Parkinson Disease|401
+C0030568|Parkinson Disease, Postencephalitic|402
+C0030578|Paronychia Inflammation|403
+C0030590|Paroxysmal supraventricular tachycardia|404
+C0030636|Pasteurella Infections|405
+C0030757|Pediculus capitis infestation|406
+C0030758|Body louse infestation|407
+C0030759|Infestation by Phthirus pubis|408
+C0030783|Pellagra|409
+C0030785|Pelvic abscess|410
+C0030807|Pemphigus|411
+C0030848|Peyronie Disease|412
+C0030920|Peptic Ulcer|413
+C0031069|Familial Mediterranean Fever|414
+C0031099|Periodontitis|415
+C0031154|Peritonitis|416
+C0031190|Persistent Fetal Circulation Syndrome|417
+C0031350|Pharyngitis|418
+C0031511|Pheochromocytoma|419
+C0031572|Phobia, Social|420
+C0031946|Pinta|421
+C0032064|Plague|422
+C0032269|Pneumococcal Infections|423
+C0032285|Pneumonia|424
+C0032290|Aspiration Pneumonia|425
+C0032302|Mycoplasma pneumonia|426
+C0032308|Staphylococcal Pneumonia|427
+C0032463|Polycythemia Vera|428
+C0032533|Polymyalgia Rheumatica|429
+C0032768|Postherpetic neuralgia|430
+C0032797|Postpartum Hemorrhage|431
+C0032897|Prader-Willi Syndrome|432
+C0033038|Premature Ejaculation|433
+C0033246|Proctitis|434
+C0033578|Prostatic Neoplasms|435
+C0033581|prostatitis|436
+C0033774|Pruritus|437
+C0033775|Pruritus Ani|438
+C0033777|Pruritus of genital organs|439
+C0033845|Pseudotumor Cerebri|440
+C0033860|Psoriasis|441
+C0033893|Tension Headache|442
+C0033975|Psychotic Disorders|443
+C0034012|Delayed Puberty|444
+C0034013|Precocious Puberty|445
+C0034063|Pulmonary Edema|446
+C0034065|Pulmonary Embolism|447
+C0034067|Pulmonary Emphysema|448
+C0034069|Pulmonary Fibrosis|449
+C0034186|Pyelonephritis|450
+C0034362|Q Fever|451
+C0034686|Rat-Bite Fever|452
+C0034734|Raynaud Disease|453
+C0034886|Rectal pain|454
+C0035021|Relapsing Fever|455
+C0035086|Renal Osteodystrophy|456
+C0035220|Respiratory Distress Syndrome, Newborn|457
+C0035235|Respiratory Syncytial Virus Infections|458
+C0035243|Respiratory Tract Infections|459
+C0035258|Restless Legs Syndrome|460
+C0035335|Retinoblastoma|461
+C0035412|Rhabdomyosarcoma|462
+C0035435|Rheumatism|463
+C0035439|Rheumatic Heart Disease|464
+C0035455|Rhinitis|465
+C0035457|Rhinitis, Allergic, Perennial|466
+C0035460|Rhinitis, Vasomotor|467
+C0035468|Rhinoscleroma|468
+C0035579|Rickets|469
+C0035585|Rickettsia Infections|470
+C0035597|Rickettsialpox|471
+C0035793|Rocky Mountain Spotted Fever|472
+C0035854|Rosacea|473
+C0036117|Salmonella infections|474
+C0036130|Salpingitis|475
+C0036202|Sarcoidosis|476
+C0036220|Kaposi Sarcoma|477
+C0036262|Scabies <infestation>|478
+C0036271|Scalp Dermatoses|479
+C0036285|Scarlet Fever|480
+C0036323|Schistosomiasis|481
+C0036337|Schizoaffective Disorder|482
+C0036341|Schizophrenia|483
+C0036472|Scrub Typhus|484
+C0036508|Seborrheic dermatitis|485
+C0036651|Senile lentigo|486
+C0036830|Serum Sickness|487
+C0036980|Shock, Cardiogenic|488
+C0036992|Short Bowel Syndrome|489
+C0037036|Sialorrhea|490
+C0037195|Sinus headache|491
+C0037199|Sinusitis|492
+C0037274|Dermatologic disorders|493
+C0037299|Skin Ulcer|494
+C0037383|Sneezing|495
+C0037769|West Syndrome|496
+C0038013|Ankylosing spondylitis|497
+C0038048|Sprains and Strains|498
+C0038157|Staphylococcal enterocolitis|499
+C0038160|Staphylococcal Infections|500
+C0038166|Staphylococcal Skin Infections|501
+C0038218|Status Asthmaticus|502
+C0038220|Status Epilepticus|503
+C0038325|Stevens-Johnson Syndrome|504
+C0038358|Gastric ulcer|505
+C0038363|Aphthous Stomatitis|506
+C0038395|Streptococcal Infections|507
+C0038436|Post-Traumatic Stress Disorder|508
+C0038437|Female stress incontinence|509
+C0038454|Cerebrovascular accident|510
+C0038463|Strongyloidiasis|511
+C0038525|Subarachnoid Hemorrhage|512
+C0039103|Synovitis|513
+C0039128|Syphilis|514
+C0039131|Syphilis, Congenital|515
+C0039133|Syphilis, Latent|516
+C0039240|Supraventricular tachycardia|517
+C0039254|Teniasis|518
+C0039483|Giant Cell Arteritis|519
+C0039503|Tendinitis|520
+C0039520|Tenosynovitis|521
+C0039614|Tetanus|522
+C0039621|Tetany|523
+C0039685|Tetralogy of Fallot|524
+C0039841|Thiamine Deficiency|525
+C0040015|Thrombasthenia|526
+C0040028|Thrombocythemia, Essential|527
+C0040034|Thrombocytopenia|528
+C0040038|Thromboembolism|529
+C0040053|Thrombosis|530
+C0040127|Thyroid Crisis|531
+C0040147|Thyroiditis|532
+C0040247|Tinea|533
+C0040250|Tinea Capitis|534
+C0040252|Tinea corporis (disorder)|535
+C0040259|Tinea Pedis|536
+C0040261|Onychomycosis|537
+C0040262|Tinea Versicolor|538
+C0040425|Tonsillitis|539
+C0040460|Toothache|540
+C0040517|Gilles de la Tourette syndrome|541
+C0040553|Toxocariasis|542
+C0040558|Toxoplasmosis|543
+C0040560|Toxoplasmosis, Congenital|544
+C0040592|Trachoma|545
+C0040896|Trichinellosis|546
+C0040921|Trichomonas Infections|547
+C0040954|Infection by Trichuris trichiura|548
+C0040997|Trigeminal Neuralgia|549
+C0041228|African Trypanosomiasis|550
+C0041318|Tuberculosis, Meningeal|551
+C0041321|Tuberculosis, Miliary|552
+C0041327|Tuberculosis, Pulmonary|553
+C0041341|Tuberous Sclerosis|554
+C0041343|Tubo-ovarian abscess|555
+C0041351|Tularemia|556
+C0041408|Turner Syndrome|557
+C0041466|Typhoid Fever|558
+C0041471|TYPHUS|559
+C0041472|Endemic Flea-Borne Typhus|560
+C0041473|Typhus, Epidemic Louse-Borne|561
+C0041648|Infection by Uncinaria|562
+C0041909|Upper gastrointestinal hemorrhage|563
+C0041912|Upper Respiratory Infections|564
+C0041976|Urethritis|565
+C0042023|Increased frequency of micturition|566
+C0042024|Urinary Incontinence|567
+C0042029|Urinary tract infection|568
+C0042109|Urticaria|569
+C0042133|Uterine Fibroids|570
+C0042135|Uterine Inertia|571
+C0042164|Uveitis|572
+C0042165|Anterior uveitis|573
+C0042345|Varicosity|574
+C0042373|Vascular Diseases|575
+C0042376|Vascular Headaches|576
+C0042510|Ventricular Fibrillation|577
+C0042548|Plantar wart|578
+C0042571|Vertigo|579
+C0042842|Vitamin A Deficiency|580
+C0042847|Vitamin B 12 Deficiency|581
+C0042870|Vitamin D Deficiency|582
+C0042875|Vitamin E Deficiency|583
+C0042900|Vitiligo|584
+C0042963|Vomiting|585
+C0042974|von Willebrand Disease|586
+C0042998|Vulvovaginitis|587
+C0043037|Common wart|588
+C0043144|Wheezing|589
+C0043167|Pertussis|590
+C0043208|Wolman Disease|591
+C0043250|Injury wounds|592
+C0043352|Xerostomia|593
+C0043388|Yaws|594
+C0043515|Zollinger-Ellison syndrome|595
+C0079744|Diffuse Large B-Cell Lymphoma|596
+C0079773|Lymphoma, T-Cell, Cutaneous|597
+C0079774|Peripheral T-Cell Lymphoma|598
+C0080032|Pleural Effusion, Malignant|599
+C0080274|Urinary Retention|600
+C0085074|Granuloma Annulare|601
+C0085096|Peripheral Vascular Diseases|602
+C0085159|Seasonal Affective Disorder|603
+C0085166|Bacterial Vaginosis|604
+C0085394|Serratia Infections|605
+C0085413|Polycystic Kidney, Autosomal Dominant|606
+C0085436|Meningitis, Cryptococcal|607
+C0085437|Meningitis, Bacterial|608
+C0085438|Meningitis, Fungal|609
+C0085606|Urgency of micturition|610
+C0085610|Sinus bradycardia|611
+C0085612|Ventricular arrhythmia|612
+C0085631|Agitation|613
+C0085649|Peripheral edema|614
+C0085652|Pyoderma Gangrenosum|615
+C0085656|Nummular eczema|616
+C0085681|Hyperphosphatemia (disorder)|617
+C0085682|Hypophosphatemia|618
+C0085786|Hamman-Rich syndrome|619
+C0086227|Enterobiasis|620
+C0086651|Mucopolysaccharidosis, MPS-IV-A|621
+C0149526|Allergic urticaria|622
+C0149704|Gingivostomatitis|623
+C0149725|Lower respiratory tract infection|624
+C0149782|Squamous cell carcinoma of lung|625
+C0149871|Deep Vein Thrombosis|626
+C0149893|Secondary glaucoma|627
+C0149911|Humoral hypercalcemia of malignancy (disorder)|628
+C0149922|Lichen Simplex Chronicus|629
+C0149925|Small cell carcinoma of lung|630
+C0149931|Migraine Disorders|631
+C0149948|Acute otitis externa|632
+C0149966|Gonorrhea of pharynx|633
+C0149985|Syphilis, secondary|634
+C0150045|Urge Incontinence|635
+C0150055|Chronic pain|636
+C0151467|Addisonian crisis|637
+C0151482|Megaloblastic anemia due to folate deficiency|638
+C0151636|Premature ventricular contractions|639
+C0151686|Growth retardation|640
+C0151714|Hypermagnesemia|641
+C0151721|Testicular hypogonadism|642
+C0151723|Hypomagnesemia|643
+C0151874|Fungal infection of lung|644
+C0151907|Discoloration of skin|645
+C0151908|Dry skin|646
+C0151940|Hypocalcemic tetany|647
+C0152020|Gastroparesis|648
+C0152030|Skin irritation|649
+C0152068|Echinococcus granulosus infection|650
+C0152072|Ovale malaria|651
+C0152253|Posterior synechiae|652
+C0152486|Salmonella sepsis|653
+C0152499|Acute amebiasis|654
+C0152516|Bacterial enteritis|655
+C0152936|Plague, Septicemic|656
+C0152945|Gastrointestinal anthrax|657
+C0152946|Anthrax sepsis|658
+C0152964|Streptococcal sepsis|659
+C0152965|Staphylococcal bacteraemia|660
+C0152967|Septicemia due to anaerobes|661
+C0152973|Serratia sepsis|662
+C0153027|Herpes zoster keratoconjunctivitis|663
+C0153188|Syphilis, tertiary|664
+C0153193|Acute gonococcal epididymo-orchitis|665
+C0153195|Acute gonococcal cervicitis|666
+C0153196|Acute gonococcal endometritis|667
+C0153216|Gonococcal joint infection|668
+C0153225|Gonococcal meningitis|669
+C0153227|Gonococcal endocarditis|670
+C0153240|Latent yaws|671
+C0153246|Tinea manus|672
+C0153252|Systemic candidiasis|673
+C0153254|Candidal endocarditis|674
+C0153256|Candidal meningitis|675
+C0153289|Echinococcus granulosus infection of liver|676
+C0153290|Echinococcus granulosus infection of lung|677
+C0153467|Malignant tumor of peritoneum|678
+C0153579|Malignant neoplasm of fallopian tube|679
+C0153594|Malignant neoplasm of testis|680
+C0153601|Malignant neoplasm of penis|681
+C0153633|Malignant neoplasm of brain|682
+C0153685|Secondary malignant neoplasm of kidney|683
+C0154246|Urea Cycle Disorders, Inborn|684
+C0154301|Acquired thrombocytopenia|685
+C0154639|Streptococcal meningitis|686
+C0154640|Staphylococcal meningitis|687
+C0154731|Glossopharyngeal Neuralgia|688
+C0155213|Hypertrichosis of eyelid|689
+C0155440|Chronic tubotympanic suppurative otitis media|690
+C0155626|Acute myocardial infarction|691
+C0155749|Arterial embolus and thrombosis|692
+C0155804|Acute maxillary sinusitis|693
+C0155814|Acute epiglottitis|694
+C0155860|Pneumonia due to Pseudomonas|695
+C0155862|Streptococcal pneumonia|696
+C0155866|Inhalational anthrax|697
+C0155877|Allergic asthma|698
+C0155880|Intrinsic asthma|699
+C0155919|Acute pulmonary edema|700
+C0156393|Atrophy of vulva|701
+C0156543|Unspecified Abortion|702
+C0156677|Eclampsia in pregnancy|703
+C0157726|Corns and callus|704
+C0157749|Arthropathy associated with infection|705
+C0158371|Acute osteomyelitis|706
+C0158996|Anemia of prematurity|707
+C0162316|Iron deficiency anemia|708
+C0162565|Acute intermittent porphyria|709
+C0162568|Erythropoietic Protoporphyria|710
+C0162627|Skin Diseases, Bacterial|711
+C0162810|Cicatrix, Hypertrophic|712
+C0162836|Hidradenitis Suppurativa|713
+C0175167|Acneiform Eruptions|714
+C0175683|Citrullinemia|715
+C0178299|Infection of skin AND/OR subcutaneous tissue|716
+C0178416|Hypoplastic anemia|717
+C0184567|Acute onset pain|718
+C0206141|Idiopathic Hypereosinophilic Syndrome|719
+C0206178|Cytomegalovirus Retinitis|720
+C0206525|Tuberculosis, Drug-Resistant|721
+C0206682|Follicular thyroid carcinoma|722
+C0220655|Malignant pericardial effusion|723
+C0220656|Malignant ascites|724
+C0220756|Niemann-Pick Disease, Type C|725
+C0220987|Hereditary orotic aciduria|726
+C0220989|Acquired partial lipodystrophy|727
+C0220994|Hyperammonemia|728
+C0221013|Mastocytosis, Systemic|729
+C0221023|Cyclic neutropenia|730
+C0221032|Familial generalized lipodystrophy|731
+C0221154|Paroxysmal hypertension|732
+C0221392|Atrophic Vaginitis|733
+C0221468|Vitamin D-dependent rickets|734
+C0221765|Chronic schizophrenia|735
+C0231403|Severe anxiety (panic)|736
+C0231528|Myalgia|737
+C0232058|Apnea in the newborn|738
+C0232849|Bladder pain|739
+C0232940|Secondary physiologic amenorrhea|740
+C0233485|apprehension|741
+C0233494|Tension|742
+C0234925|Greasy skin|743
+C0234974|Simple Partial Seizures|744
+C0234978|Motor cortex epilepsy|745
+C0235063|Respiratory Depression|746
+C0235238|Cycloplegia|747
+C0235267|Redness of eye|748
+C0235339|Mouth irritation|749
+C0235480|Paroxysmal atrial fibrillation|750
+C0235950|Zinc deficiency|751
+C0236663|Alcohol withdrawal syndrome|752
+C0236780|Mixed bipolar I disorder|753
+C0237963|Poisoning by acetaminophen|754
+C0237996|anticholinergic toxicity|755
+C0238052|Xanthomatosis, Cerebrotendinous|756
+C0238080|Toxic effect of cyanide|757
+C0238111|Lennox-Gastaut syndrome|758
+C0238198|Gastrointestinal Stromal Tumors|759
+C0238217|Renal transplant rejection|760
+C0238298|Myxedema coma|761
+C0238425|Hemoglobin SS disease with crisis|762
+C0238452|Thallium poisoning|763
+C0238462|Medullary carcinoma of thyroid|764
+C0238463|Papillary thyroid carcinoma|765
+C0239295|Candidiasis of the esophagus|766
+C0241310|Suprapubic pain|767
+C0241961|Angiomyolipoma of kidney|768
+C0242172|Pelvic Inflammatory Disease|769
+C0242350|Erectile dysfunction|770
+C0242379|Malignant neoplasm of lung|771
+C0242383|Age related macular degeneration|772
+C0242422|Parkinsonian Disorders|773
+C0242429|Sore Throat|774
+C0242459|Simple Pulmonary Eosinophilia|775
+C0242855|Congenital atresia of pulmonary valve|776
+C0243001|Abdominal Abscess|777
+C0243002|Tricuspid Atresia|778
+C0259799|Punctate keratitis|779
+C0261439|Accidental poisoning by methyl alcohol|780
+C0261486|Accidental poisoning by lead and its compounds and fumes|781
+C0262399|shoulder bursitis|782
+C0262633|Shoulder tendinitis|783
+C0263283|Contact dermatitis due to Rhus diversiloba|784
+C0264115|Drug-induced osteoporosis|785
+C0264515|Pneumonia, Necrotizing|786
+C0264716|Chronic heart failure|787
+C0267055|Erosive esophagitis|788
+C0267176|Gastroparesis due to diabetes mellitus|789
+C0267390|Chronic ulcerative rectosigmoiditis|790
+C0267436|Non-infective diarrhea|791
+C0267509|Chronic idiopathic constipation|792
+C0267511|Drug-induced constipation|793
+C0267963|Exocrine pancreatic insufficiency|794
+C0268108|Chronic gouty arthritis|795
+C0268490|Tyrosinemia, Type I|796
+C0269050|Endomyometritis|797
+C0269398|Miscarriage with sepsis|798
+C0269658|Mild pre-eclampsia|799
+C0270327|Bedwetting|800
+C0270425|Bipolar disorder in remission|801
+C0270458|Severe major depression with psychotic features|802
+C0270549|Generalized Anxiety Disorder|803
+C0270846|Epileptic drop attack|804
+C0271066|Choroidal retinal neovascularization|805
+C0271084|Exudative age-related macular degeneration|806
+C0271093|Stargardt's disease|807
+C0271152|Malignant glaucoma|808
+C0271429|Acute otitis media|809
+C0271568|Laron Syndrome|810
+C0271578|Female hypogonadism syndrome|811
+C0271623|Hypogonadotropic hypogonadism|812
+C0271693|Acquired generalized lipodystrophy|813
+C0272275|Heparin-induced thrombocytopenia with thrombosis|814
+C0272293|Chronic idiopathic thrombocytopenic purpura|815
+C0272325|Factor 8 deficiency, acquired|816
+C0272373|Drug-induced coagulation inhibitor disorder|817
+C0274462|Poisoning by sulfadiazine|818
+C0274478|Poisoning by pyrimethamine|819
+C0274726|Poisoning by digitalis glycoside|820
+C0275550|Acute bacterial peritonitis|821
+C0275555|Acute bacterial epiglottitis|822
+C0275556|Acute bacterial sinusitis|823
+C0275566|Pulmonary actinomycosis|824
+C0275652|Acute gonococcal urethritis|825
+C0275665|Gonorrhea of rectum|826
+C0275761|Pneumococcal pharyngitis|827
+C0275793|Staphylococcal tonsillitis|828
+C0275794|Staphylococcal pharyngitis|829
+C0275804|Streptococcal tonsillitis|830
+C0275842|Early latent syphilis, positive serology, negative cerebrospinal fluid, less than 2 years after infection|831
+C0275959|Acute tuberculosis|832
+C0275979|Infection by Campylobacter fetus|833
+C0275982|Enteric campylobacteriosis|834
+C0276026|Haemophilus influenzae pneumonia|835
+C0276064|Septicemia due to Bacteroides|836
+C0276075|Infection due to Pseudomonas aeruginosa|837
+C0276085|Ecthyma gangrenosum|838
+C0276088|Escherichia coli septicemia|839
+C0276089|Pneumonia due to Escherichia coli|840
+C0276226|Herpes encephalitis|841
+C0276228|Herpes simplex keratoconjunctivitis|842
+C0276535|AIDS with Kaposi's sarcoma|843
+C0276587|Nutritional deficiency associated with AIDS|844
+C0276648|Mycotic endocarditis|845
+C0276653|Invasive Pulmonary Aspergillosis|846
+C0276688|Pulmonary cryptococcosis|847
+C0276725|Disseminated sporotrichosis|848
+C0276754|Onychomycosis due to Trichophyton rubrum|849
+C0276755|Onychomycosis due to Trichophyton mentagrophytes|850
+C0276758|Fusariosis|851
+C0277528|Traveler's diarrhea|852
+C0278140|Severe pain|853
+C0278488|Carcinoma breast stage IV|854
+C0278498|Malignant neoplasm of stomach stage IV|855
+C0278678|Metastatic Renal Cell Cancer|856
+C0278701|Gastric Adenocarcinoma|857
+C0278996|Cancer of Head and Neck|858
+C0279543|Philadelphia chromosome positive chronic myelogenous leukemia|859
+C0280324|Laryngeal Squamous Cell Carcinoma|860
+C0281361|Adenocarcinoma of pancreas|861
+C0282193|Iron Overload|862
+C0282488|Interstitial Cystitis|863
+C0302592|Cervix carcinoma|864
+C0311375|Arsenic Poisoning|865
+C0334579|Anaplastic astrocytoma|866
+C0334634|Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse|867
+C0338395|Meningitis, Escherichia coli|868
+C0338396|Proteus meningitis|869
+C0338437|Neurocysticercosis|870
+C0338873|Bipolar affective disorder, current episode manic|871
+C0338908|Mixed anxiety and depressive disorder|872
+C0339170|Fungal conjunctivitis|873
+C0339293|Corneal Perforation|874
+C0339498|Central retinal vein occlusion with macular edema|875
+C0339507|Branch retinal vein occlusion with macular edema|876
+C0339932|Acute Moraxella catarrhalis bronchitis|877
+C0339933|Acute bacterial bronchitis|878
+C0339959|Chlamydial pneumonia|879
+C0339968|Neonatal pneumonia|880
+C0340354|Q fever endocarditis|881
+C0340970|Congenital neutropenia|882
+C0341503|Bacterial peritonitis|883
+C0341823|Epithelial tumor of ovary|884
+C0341834|Chlamydial cervicitis|885
+C0341950|Severe pre-eclampsia|886
+C0342527|Deficiency of testosterone biosynthesis|887
+C0342634|Neonatal hypocalcemia|888
+C0342731|Deficiency of mevalonate kinase|889
+C0342751|Generalized glycogen storage disease of infants|890
+C0342826|3-Beta-hydroxy-delta-5-C27-steroid dehydrogenase deficiency|891
+C0342827|Delta-4-3-oxosteroid-5-beta-reductase deficiency|892
+C0342881|Familial hypercholesterolemia - homozygous|893
+C0342882|Familial hypercholesterolemia - heterozygous|894
+C0342907|Sitosterolemia|895
+C0342985|Superficial bacterial infection of skin|896
+C0343065|Symptomatic dermographism|897
+C0343378|Helicobacter-associated gastritis|898
+C0343386|Clostridium difficile infection|899
+C0343402|Bacterial infection due to Klebsiella pneumoniae|900
+C0343467|Erythema nodosum leprosum|901
+C0343500|Gas gangrene caused by clostridium perfringens|902
+C0343532|Streptococcal toxic shock syndrome|903
+C0343730|Perianal warts|904
+C0343833|Tertiary lesion of yaws|905
+C0343886|Gastrointestinal candidiasis|906
+C0345468|Transplanted organ rejection|907
+C0345904|Malignant neoplasm of liver|908
+C0346161|Malignant epithelial tumor of ovary|909
+C0346421|Chronic eosinophilic leukemia|910
+C0346974|Secondary malignant neoplasm of colon|911
+C0346976|Secondary malignant neoplasm of pancreas|912
+C0346993|Secondary malignant neoplasm of female breast|913
+C0347950|Asthma attack|914
+C0348868|Listerial endocarditis|915
+C0348898|Irritable bowel syndrome with diarrhea|916
+C0349009|Septicemia candida|917
+C0349464|Wernicke-Korsakoff Syndrome|918
+C0349506|Photosensitivity of skin|919
+C0349543|Glioblastoma multiforme of brain|920
+C0349636|Pre B-cell acute lymphoblastic leukemia|921
+C0349649|Pulmonary lymphangioleiomyomatosis|922
+C0349719|Herpes simplex infection of skin|923
+C0349734|Female pelvic cellulitis|924
+C0349774|Diverticulitis of gastrointestinal tract|925
+C0349790|Exacerbation of asthma|926
+C0376358|Malignant neoplasm of prostate|927
+C0392164|Pulmonary Cystic Fibrosis|928
+C0392171|Influenza-like symptoms|929
+C0392190|Mucositis following radiation therapy|930
+C0392445|Necrobiosis Lipoidica Diabeticorum|931
+C0392618|Postoperative infection|932
+C0392784|Dermatofibrosarcoma Protuberans|933
+C0393735|Headache Disorders|934
+C0393760|Initial insomnia|935
+C0393772|Non-24 hour sleep-wake cycle|936
+C0395818|Malignant otitis externa due to Pseudomonas aeruginosa|937
+C0398775|Hereditary C1 esterase inhibitor deficiency - deficient factor|938
+C0400877|Postoperative ileus|939
+C0400968|Liver transplant rejection|940
+C0401160|Chemotherapy-induced nausea and vomiting|941
+C0403643|Bladder muscle dysfunction - overactive|942
+C0405580|Adrenal cortical hypofunction|943
+C0406317|Chronic small plaque psoriasis|944
+C0406326|Scalp psoriasis|945
+C0406486|Ocular Rosacea|946
+C0406526|Neuropathic diabetic ulcer - foot|947
+C0409818|Chronic Infantile Neurological, Cutaneous, and Articular Syndrome|948
+C0409959|Osteoarthritis, Knee|949
+C0410065|Dupuytren's disease of finger, with contracture|950
+C0412842|Poisoning by iron AND/OR its compounds|951
+C0412850|Poisoning by opiate analgesic drug|952
+C0413194|Ethylene glycol poisoning (disorder)|953
+C0421162|Meningococcus carrier|954
+C0423234|Punctate keratopathy|955
+C0423673|Pain in spine|956
+C0423775|Scurfiness of scalp|957
+C0424620|Excess subcutaneous fat|958
+C0426639|Incomplete passage of stool|959
+C0428974|Supraventricular arrhythmia|960
+C0456103|Sepsis of the newborn|961
+C0456107|Neonatal meningitis|962
+C0473527|Hypoalphalipoproteinemias|963
+C0474368|Labor Pain|964
+C0475811|Disorder of keratinization|965
+C0476089|Endometrial Carcinoma|966
+C0494475|Tonic - clonic seizures|967
+C0497327|Dementia|968
+C0519030|Pneumonia due to Klebsiella pneumoniae|969
+C0520577|Urethral atrophy|970
+C0520676|Premenstrual Dysphoric Disorder|971
+C0520767|Staphylococcal endocarditis|972
+C0520775|Klebsiella cystitis|973
+C0520777|Chlamydial pelvic inflammatory disease|974
+C0524662|Opiate Addiction|975
+C0524688|Pneumonic Plague|976
+C0524702|Pulmonary Thromboembolisms|977
+C0524909|Hepatitis B, Chronic|978
+C0524910|Hepatitis C, Chronic|979
+C0542269|Non-Q wave myocardial infarction|980
+C0546837|Malignant neoplasm of esophagus|981
+C0546999|Larva Migrans, Cutaneous|982
+C0549315|Hydatidiform mole, benign|983
+C0549398|Meibomianitis|984
+C0553580|Ewings sarcoma|985
+C0554628|Streptococcus pyogenes infection|986
+C0555198|Malignant Glioma|987
+C0558595|Uric acid renal calculus|988
+C0564750|Peripheral arterial embolism|989
+C0568062|Methotrexate poisoning|990
+C0572583|Antimetabolite overdose|991
+C0573789|Heparin overdose|992
+C0577690|Proteus septicemia|993
+C0577708|Escherichia coli urinary tract infection|994
+C0577709|Proteus urinary tract infection|995
+C0578870|Chronic idiopathic urticaria|996
+C0581358|Gastric spasm (disorder)|997
+C0581377|Decompensated cardiac failure|998
+C0581392|Exacerbation of multiple sclerosis|999
+C0585362|Squamous cell carcinoma of mouth|1000
+C0585442|Osteosarcoma of bone|1001
+C0588233|Septicemia due to enterococcus|1002
+C0596170|Binge eating disorder|1003
+C0596298|Cerebrovascular Occlusion|1004
+C0600041|Infective cystitis|1005
+C0600142|Hot flushes|1006
+C0600177|Low Cardiac Output Syndrome|1007
+C0600518|Choroidal Neovascularization|1008
+C0677607|Hashimoto Disease|1009
+C0678222|Breast Carcinoma|1010
+C0684256|Bacterial sepsis|1011
+C0686068|Secondary malignant neoplasm of stomach|1012
+C0686510|Carcinoma in situ of adrenal cortex|1013
+C0687148|Mineral deficiency|1014
+C0700053|Idiopathic hypertrophic subaortic stenosis|1015
+C0700345|Candidiasis, Vulvovaginal|1016
+C0700359|Organophosphate poisoning|1017
+C0701163|Adrenogenital disorder|1018
+C0729524|Bacterial urinary infection|1019
+C0729586|Infective otitis media|1020
+C0729587|Infective blepharitis|1021
+C0730274|Vitreomacular traction syndrome|1022
+C0730285|Diabetic macular edema|1023
+C0730607|Severe chronic obstructive pulmonary disease|1024
+C0740394|Hyperuricemia|1025
+C0740447|Diabetic peripheral neuropathy|1026
+C0741292|Paroxysmal atrial flutter|1027
+C0744130|Diabetic foot infection|1028
+C0744451|GONOCOCCAL INFECTION DISSEMINATED|1029
+C0744896|Intractable hiccups|1030
+C0745136|Hypertensive emergency|1031
+C0745138|Hypertensive urgency|1032
+C0745528|Klebsiella sepsis|1033
+C0746683|MUSCULOSKELETAL PAIN CHRONIC|1034
+C0748196|PYELONEPHRITIS E COLI|1035
+C0748267|RENAL CALCULUS CALCIUM OXALATE|1036
+C0749955|URINARY TRACT INFECTION CITROBACTER|1037
+C0749958|URINARY TRACT INFECTION ENTEROCOCCUS|1038
+C0751122|Infantile Severe Myoclonic Epilepsy|1039
+C0751362|Narcolepsy-Cataplexy Syndrome|1040
+C0751434|Classical phenylketonuria|1041
+C0751753|Carbamoyl-Phosphate Synthase I Deficiency Disease|1042
+C0751967|Multiple Sclerosis, Relapsing-Remitting|1043
+C0812413|Malignant Pleural Mesothelioma|1044
+C0849907|Itching of ear|1045
+C0853852|Cystitis escherichia|1046
+C0854135|Pseudomonas aeruginosa infection|1047
+C0854211|Bacterial keratitis|1048
+C0854215|Bacterial meningitis due to Gram-negative bacteria|1049
+C0854248|Pneumonia due to Gram negative bacteria|1050
+C0854324|Haemophilus sepsis|1051
+C0854328|Infection due to anaerobic bacteria|1052
+C0854528|Endocarditis haemophilus|1053
+C0855095|Small Lymphocytic Lymphoma|1054
+C0856695|Acute exacerbation of chronic bronchitis|1055
+C0857177|Arthritic pains|1056
+C0857831|Moraxella catarrhalis pneumonia|1057
+C0857846|Legionella pneumophila pneumonia|1058
+C0860048|Septic arthritis haemophilus|1059
+C0860594|Malignant melanoma, metastatic|1060
+C0862889|Superficial basal cell carcinoma|1061
+C0865436|Meningitis due to Bacteroides|1062
+C0866125|Renal disease with edema NOS|1063
+C0870082|Hyperkeratosis|1064
+C0877131|Urinary tract infection fungal|1065
+C0877445|Candidemia|1066
+C0877633|Haemophilus parainfluenzae pneumonia|1067
+C0917796|Optic Atrophy, Hereditary, Leber|1068
+C0917798|Cerebral Ischemia|1069
+C0917801|Sleeplessness|1070
+C0919659|Oropharyngeal candidiasis|1071
+C0919737|Platelet aggregation inhibition|1072
+C0936215|Vitamin B 6 Deficiency|1073
+C0936223|Metastatic Prostate Carcinoma|1074
+C0948008|Ischemic stroke|1075
+C0948089|Acute Coronary Syndrome|1076
+C0948205|Infection caused by Enterobacter|1077
+C0948840|Meningeal Leukemia|1078
+C0948896|Primary hypogonadism|1079
+C0949083|Nosocomial pneumonia|1080
+C1096254|Citrobacter sepsis|1081
+C1096258|Enterobacter pneumonia|1082
+C1096562|Peptostreptococcus infection|1083
+C1112209|Intraabdominal Infections|1084
+C1112631|Allergic keratoconjunctivitis|1085
+C1112709|non-gonococcal urethritis (NGU)|1086
+C1134719|Invasive Ductal Breast Carcinoma|1087
+C1135868|Gestational Trophoblastic Neoplasms|1088
+C1140680|Malignant neoplasm of ovary|1089
+C1142132|Carnitine deficiency|1090
+C1260880|Rhinorrhea|1091
+C1260899|Anemia, Diamond-Blackfan|1092
+C1260911|Infection by Pasteurella multocida|1093
+C1260915|Late latent syphilis|1094
+C1260917|Proteus pneumonia|1095
+C1261256|Pelvic inflammatory disease due to Mycoplasma hominis|1096
+C1261473|Sarcoma|1097
+C1262117|Fungal keratitis|1098
+C1262211|Diarrhoea predominant irritable bowel syndrome|1099
+C1263758|Female genital tract infection|1100
+C1263846|Attention deficit hyperactivity disorder|1101
+C1269683|Major Depressive Disorder|1102
+C1272826|FIGO stage finding for vulvar carcinoma|1103
+C1273489|Asthma night-time symptoms|1104
+C1274321|Recurrent herpes simplex labialis|1105
+C1274323|Recurrent genital herpes simplex|1106
+C1274355|Streptococcal infection of skin|1107
+C1274469|Onychomycosis of fingernails|1108
+C1274470|Onychomycosis of toenails|1109
+C1274988|Drug-induced mucositis|1110
+C1275126|TNF receptor-associated periodic fever syndrome (TRAPS)|1111
+C1275317|Anaplastic large T-cell systemic malignant lymphoma|1112
+C1275684|Meibomian gland dysfunction|1113
+C1275687|Herpes zoster keratitis|1114
+C1276801|Infection due to Erysipelothrix rhusiopathiae (disorder)|1115
+C1278797|Postnatal infection|1116
+C1278807|Chlamydial urethritis|1117
+C1279247|Genitourinary tract infection|1118
+C1282500|Metastasis from malignant tumor of colon|1119
+C1283620|Sucrase-isomaltase deficiency, congenital|1120
+C1290159|Subacute bursitis|1121
+C1292758|Precursor T-cell lymphoblastic lymphoma|1122
+C1303258|Acute ST segment elevation myocardial infarction (disorder)|1123
+C1306632|Primary malignant neoplasm of gastrointestinal tract|1124
+C1318559|Fusospirochetal pharyngitis|1125
+C1318973|Staphylococcus aureus infection|1126
+C1319317|Squamous cell carcinoma of pharynx|1127
+C1320547|Allergic otitis externa|1128
+C1328252|Mucocutaneous leishmaniasis|1129
+C1336708|Testicular Germ Cell Tumor|1130
+C1384589|Tinea cruris|1131
+C1384600|Systemic onset juvenile chronic arthritis|1132
+C1384606|Dyspareunia|1133
+C1398376|mixed; epileptic|1134
+C1444173|Arthropod bite wound|1135
+C1510471|Vitamin Deficiency|1136
+C1527336|Sjogren's Syndrome|1137
+C1527383|Morphea|1138
+C1527407|Eosinophilic Pneumonia|1139
+C1535478|Granulomatosis infantiseptica|1140
+C1561828|Anemia in chronic kidney disease|1141
+C1562029|Hormone receptor positive malignant neoplasm of breast|1142
+C1562430|Muscle spasticity of spinal origin|1143
+C1562543|Ocular histoplasmosis syndrome|1144
+C1562585|Leprosy, Multibacillary|1145
+C1563054|Dapsone resistant mycobacterium leprae disease|1146
+C1621958|Glioblastoma Multiforme|1147
+C1623040|Breastfeeding (mother)|1148
+C1632842|Complicated appendicitis|1149
+C1636205|Rhinocerebral phycomycosis|1150
+C1692886|Arthritis, Bacterial|1151
+C1704231|Metastatic Malignant Neoplasm to the Leptomeninges|1152
+C1704431|Disorder of electrolytes|1153
+C1719906|Meningitis due to Klebsiella mobilis|1154
+C1720498|Toxoplasmosis associated with AIDS|1155
+C1720797|Chronic Bacterial Prostatitis|1156
+C1739363|Prostatic Hypertrophy|1157
+C1739382|Chronic iron overload|1158
+C1761609|Aspiration pneumonitis|1159
+C1827266|Decompensated chronic heart failure|1160
+C1827687|Chemotherapy-induced neutropenia|1161
+C1828079|Dementia associated with Parkinson's Disease|1162
+C1849508|EPILEPSY, PYRIDOXINE-DEPENDENT|1163
+C1868889|Irritable bowel syndrome characterized by constipation|1164
+C1959799|Calcium renal calculus|1165
+C1960397|Philadelphia chromosome-positive acute lymphoblastic leukemia|1166
+C1960398|HER2-positive carcinoma of breast|1167
+C1960764|Crohn's disease in remission|1168
+C1960924|Right-sided Staphylococcus aureus endocarditis|1169
+C1960925|Epidermal growth factor receptor positive non-small cell lung cancer|1170
+C1961099|Precursor T-Cell Lymphoblastic Leukemia-Lymphoma|1171
+C1961112|Heart Decompensation|1172
+C1961835|Gaucher Disease, Type 1|1173
+C1997322|Chlamydia trachomatis infection of genital structure|1174
+C1997728|Osteomyelitis due to Staphylococcus aureus|1175
+C1998329|Anemia due to chemotherapy|1176
+C2028293|Haemophilus influenzae type b infection|1177
+C2062454|Bacteroides empyema|1178
+C2062475|pharyngitis due to Haemophilus influenzae|1179
+C2062982|candidal peritonitis|1180
+C2215257|Acute postoperative pain|1181
+C2239176|Liver carcinoma|1182
+C2242472|Infection of bone|1183
+C2267227|Bulimia Nervosa|1184
+C2267231|Chronic idiopathic neutropenia|1185
+C2316212|Cryopyrin-Associated Periodic Syndromes|1186
+C2316304|Human epidermal growth factor 2 negative carcinoma of breast|1187
+C2316460|Pseudobulbar affect|1188
+C2349530|Pneumonia due to Staphylococcus aureus|1189
+C2349994|Tinea barbae|1190
+C2363973|Chronic thromboembolic pulmonary hypertension|1191
+C2584877|Hereditary factor XIII A subunit deficiency|1192
+C2585890|Nonsquamous nonsmall cell neoplasm of lung|1193
+C2607914|Allergic rhinitis (disorder)|1194
+C2677857|Facial hyperpigmentation|1195
+C2711180|Influenza due to Influenza A virus|1196
+C2711256|Ischemic priapism|1197
+C2711653|Epilepsy characterized by intractable complex partial seizures|1198
+C2733595|Pulmonary Mycobacterium avium complex infection|1199
+C2887088|Sepsis due to Staphylococcus aureus|1200
+C2887096|Sepsis due to Pseudomonas|1201
+C2894027|Post traumatic osteoarthritis|1202
+C2919522|Congenital hemolytic uremic syndrome|1203
+C2931187|Nephropathic cystinosis|1204
+C2936781|Generalized Myotonia of Thomsen|1205
+C2937222|Chronic ulcerative proctitis|1206
+C2937225|Biotin deficiency disease|1207
+C2960008|Fungal septicemia|1208
+C2973725|Pulmonary arterial hypertension|1209
+C3163805|Malignant epithelial neoplasm of female breast|1210
+C3163829|Sepsis due to Gram negative bacteria|1211
+C3163899|Squamous cell carcinoma of nose|1212
+C3163939|Malignant epithelial neoplasm of thyroid|1213
+C3203356|Factor II deficiency|1214
+C3495559|Juvenile arthritis|1215
+C3536984|Vitamin D-Resistant Rickets, X-Linked|1216
+C3544321|Treatment-resistant schizophrenia|1217
+C3661921|Perioperative hypertension|1218
+C3665800|Streptococcal endocarditis|1219
+C3665869|Pseudomonas aeruginosa meningitis|1220
+C3697010|Ulcerative colitis in remission|1221
+C3698411|Asymptomatic left ventricular systolic dysfunction|1222
+C3854116|Lipodystrophy due to Human immunodeficiency virus infection and antiretroviral therapy|1223
+C3875286|Complex dyslipidemia|1224
+C3875321|Inflammatory dermatosis|1225
+C3898069|Osteolytic Lesions of Multiple Myeloma|1226
+C4038730|Asthma-chronic obstructive pulmonary disease overlap syndrome|1227
+C4083212|Alopecia, Male Pattern|1228
