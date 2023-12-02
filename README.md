@@ -1,6 +1,6 @@
 # EKGDR
 ## EKGDR: An end-to-end knowledge graph based method for computational drug repurposing
-> Javad Tayebi and Bagher BabaAli
+Javad Tayebi and Bagher BabaAli
 
 ## Example to Run the Codes
 > https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network
