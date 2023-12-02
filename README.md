@@ -16,4 +16,4 @@
 DKG4RS
 > https://github.com/javadtayebi/DKG4RS
 
-- Training log for the best performance with `DKG4RS` dataset, is provided [here](https://github.com/javadtayebi/EKGDR/blob/main/training_log/dkg4rs.txt)
+- Training log for the best performance with DKG4RS dataset, is provided [here](https://github.com/javadtayebi/EKGDR/blob/main/training_log/dkg4rs.txt)
